@@ -1,3 +1,3 @@
-Snake Game em JS
+Snake Game JS
 Challenge Bootcamp HTML Web Development 
 Dio
