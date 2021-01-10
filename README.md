@@ -1,2 +1,3 @@
-# joguinho-da-cobra
-joguinho da cobra js
+Snake Game em JS
+Challenge Bootcamp HTML Web Development 
+Dio
